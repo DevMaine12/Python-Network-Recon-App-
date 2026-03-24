@@ -1,0 +1,5 @@
+# Recon Toolkit - Defensive Cybersecurity Reconnaissance
+# Python 3.8+
+
+# Colored terminal output (Windows compatible)
+colorama>=0.4.6
